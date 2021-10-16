@@ -1,3 +1,3 @@
 # HackerRankSolutions
 
-## a collection of solutions to HackerRank python problems
+### a collection of solutions to HackerRank python problems
