@@ -12,3 +12,5 @@ INNER JOIN Packages p2
 on f.Friend_ID = p2.ID)a 
 Where FriendSalary > StudentSalary
 ORDER BY FriendSalary
+
+/*newly definitely variable cannot be in the same query as the where statement
