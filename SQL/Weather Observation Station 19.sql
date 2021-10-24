@@ -1,4 +1,4 @@
-/* Euclidean Distance between ()
+/* Euclidean Distance between two points P1(a,b), P2(c,d)
 
 /*
 MySQL Syntax
