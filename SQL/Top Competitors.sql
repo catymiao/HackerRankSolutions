@@ -1,4 +1,4 @@
-SELECT B.hacker_id,h.name FROM (
+SELECT B.hacker_id,H.name FROM (
 SELECT hacker_id, count(distinct challenge_id) total FROM(
 SELECT  S.hacker_id, S.challenge_id
 FROM Submissions S
