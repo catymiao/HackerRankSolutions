@@ -1,3 +1,5 @@
+-- MS SQL Server only 
+
 DECLARE @i INT = 20
 
 WHILE(@i>0)
