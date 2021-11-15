@@ -12,4 +12,4 @@ def solve(s):
 
 
 
-# Capitalize string like 'chris alan'
+# Capitalize strings like 'chris alan'
