@@ -9,3 +9,7 @@ def solve(s):
         else:
             new_str += string[i]
     return(new_str)
+
+
+
+# Capitalize string like 'chris alan'
