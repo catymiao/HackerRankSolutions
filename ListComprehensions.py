@@ -5,7 +5,6 @@ if __name__ == '__main__':
     z = int(raw_input())
     n = int(raw_input())
     
-    ls = [[i,j,k] for i in range(x+1) for j in range(y+1) for k in range(z+1)
-    if i+j+k != n]
+    ls = [[i,j,k] for i in range(x+1) for j in range(y+1) for k in range(z+1) if i+j+k != n]
     print (ls)
     
