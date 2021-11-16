@@ -7,3 +7,9 @@ storage2=sorted(list(map(int,storage2)))
 #print(storage2)
 for i in list(itertools.product(storage1,storage2)):
     print(i,end=" ") #print in one line
+
+    
+# import itertools
+# storage1 = [1,2]
+# storage2 = [3,4]
+# list(itertools.product(storage1,storage2))
